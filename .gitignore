@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+out-tsc/
+
+# Build artifacts
+*.log
+*.lock
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Angular specific
+.angular/
+.angular/cache
+
+# Compiled TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Environment files
+src/environments/*.prod.ts
+
+# Test coverag
